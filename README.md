@@ -15,6 +15,8 @@ Zomato is a restaurant aggregation and meal delivery service based in India. It 
 ## Objective
 To construct a consolidated and interactive Power BI report that will allow Zomato to quickly assess the required data.
 
+<img width="1920" height="1019" alt="PBI Project 09-07-2025 15_49_32" src="https://github.com/user-attachments/assets/1e344025-cd02-464b-9904-06d7ee51a0eb" />
+
 ## Clients Requirement
 The clients want to construct a consolidated and interactive Power BI report that will allow them to do the following:
 - Derive data on the total number of restaurants worldwide, including continents, countries, and cities.
@@ -49,3 +51,9 @@ The clients want to construct a consolidated and interactive Power BI report tha
 
 ## Project Outcome
 As per the clients requirement, a consolidated and interactive Power BI multi-page report is visualized that will allow Zomato to quickly assess the required data.
+
+<img width="1920" height="1019" alt="PBI Project 09-07-2025 15_49_18" src="https://github.com/user-attachments/assets/b9e1aae6-537e-4903-a3ed-f3643448730c" />
+<img width="1920" height="1019" alt="PBI Project 09-07-2025 15_49_32" src="https://github.com/user-attachments/assets/1e5c9d1a-46ef-44f1-855b-02f0f843d51b" />
+
+
+
